@@ -1,2 +1,2 @@
-# VPN Configs Project
-# Public subscription sources will be added here.
+
+https://raw.githubusercontent.com/3000S-HTTP/sNSub/main/output/configs_base64.txt
